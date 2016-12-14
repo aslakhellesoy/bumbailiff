@@ -1,3 +1,6 @@
+---
+layout: frontpage
+---
 # Bumbailiff
 
 `/ˌbʌmˈbeɪlɪf/`
